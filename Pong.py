@@ -50,7 +50,7 @@ pygame.display.flip()
 fps=pygame.time.Clock()
 
 while True:
-    game_display.fill((128,128,128)) #KOLOR SZARY OKIENKA
+    game_display.fill((128,128,128))
     for event in pygame.event.get():
         if event.type == QUIT:
             sys.exit(0)
