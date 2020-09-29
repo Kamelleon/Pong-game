@@ -3,8 +3,10 @@ My first game made in Python using Pygame library
 
 # Installation
 
+- Install pygame library
+
 ```bash
-pip install pyautogui
+pip install pygame
 ```
 
 # Instructions
