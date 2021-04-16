@@ -10,6 +10,9 @@ pip install pygame
 ```
 
 # Instructions
-- Download all the files (ball.png, ariendezze.ttf, Pong.py)
-
+- Download all project files
+- Install Pygame:
+```bash
+pip install pygame
+```
 - Run Pong.py
